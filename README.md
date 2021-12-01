@@ -27,7 +27,7 @@ B=int(input())
 print("Swapped values are:",B,A)
 ~~~
 ## OUTPUT:
-![output](/swap.png)
+![output1](/swap.png)
 
 
 
